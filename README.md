@@ -7,7 +7,7 @@ In the realm of healthcare, optimizing efficiency while upholding the quality of
 ## Overview
 In this case study, we delve into the intricacies of a dataset to unravel the factors influencing patient Length of Stay (LOS) and associated costs. By scrutinizing various attributes, we aim to pinpoint the drivers behind discrepancies in hospital efficiency. Leveraging advanced DAX (Data Analysis Expressions) skills, we craft measures and curate insightful visualizations to illuminate patterns and correlations within the data.
 
-![image](https://github.com/sankarshana98/Healthcare-Analysis-Dashboard/assets/52189722/ca0d953d-f806-43fe-9e2b-e7430cbbcf51)
+![Screenshot 2024-08-29 013141](https://github.com/user-attachments/assets/d42e3c76-60b0-4434-bbf9-78a982fb13c4)
 
 ## Objectives
 - Analyze attributes affecting patient Length of Stay (LOS) and cost.
