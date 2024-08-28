@@ -2,7 +2,7 @@
 
 In the realm of healthcare, optimizing efficiency while upholding the quality of patient care stands as a paramount objective. This repository presents a Power BI Case Study tailored towards dissecting a real-world dataset to unveil insights into hospital efficiency, specifically for MedCare, a fictional consulting company.
 
-![image](https://github.com/sankarshana98/Healthcare-Analysis-Dashboard/assets/52189722/53634903-6126-4f9b-9e38-b4d6f7bdb7a1)
+![Screenshot 2024-08-29 013120](https://github.com/user-attachments/assets/a0d54e62-0007-4b21-b738-cbc1bc0151e5)
 
 ## Overview
 In this case study, we delve into the intricacies of a dataset to unravel the factors influencing patient Length of Stay (LOS) and associated costs. By scrutinizing various attributes, we aim to pinpoint the drivers behind discrepancies in hospital efficiency. Leveraging advanced DAX (Data Analysis Expressions) skills, we craft measures and curate insightful visualizations to illuminate patterns and correlations within the data.
